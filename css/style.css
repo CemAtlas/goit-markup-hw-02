@@ -28,6 +28,9 @@ body{
 .header-li-first:hover{
     color: #404bbf;
 }
+.header-li-first::selection{
+    color: #404bbf;
+}
 
 .header-li-second{
     font-weight: 500;
@@ -40,6 +43,9 @@ body{
 .header-li-second:hover{
     color: #404bbf;
 }
+.header-li-second::selection {
+    color: #404bbf;
+}
 .header-li-third {
     font-weight: 500;
         font-size: 16px;
@@ -48,6 +54,9 @@ body{
         color: #2e2f42;
 }
 .header-li-third:hover{
+    color: #404bbf;
+}
+.header-li-third::selection {
     color: #404bbf;
 }
 .address{
@@ -62,11 +71,17 @@ body{
 .address-li-first:hover{
     color: #404bbf;
 }
+.address-li-first::selection {
+    color: #404bbf;
+}
 .address-li-second{
     line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
 .address-li-second:hover {
+    color: #404bbf;
+}
+.address-li-second::selection {
     color: #404bbf;
 }
