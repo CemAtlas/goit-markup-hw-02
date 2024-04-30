@@ -67,10 +67,11 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer;
 }
 .main-first-button:hover{
-    color: #404BBF;
+    background-color: #404BBF;
 }
 .main-first-button:focus{
-    color: #404BBF;
+  background-color: #404BBF;
 }
