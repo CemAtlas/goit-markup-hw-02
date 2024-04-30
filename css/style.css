@@ -62,16 +62,16 @@ body{
 .address{
     font-style: normal;
 }
-.address-li-first{
+.address-li{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 
 }
-.address-li-first:hover{
+.address-li:hover{
     color: #404bbf;
 }
-.address-li-first:focus{
+.address-li:focus{
     color: #404bbf;
 }
 .address-li-second{
