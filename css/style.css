@@ -50,3 +50,23 @@ body{
 .header-li-third:hover{
     color: #404bbf;
 }
+.address{
+    font-style: normal;
+}
+.address-li-first{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+
+}
+.address-li-first:hover{
+    color: #404bbf;
+}
+.address-li-second{
+    line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.address-li-second:hover {
+    color: #404bbf;
+}
