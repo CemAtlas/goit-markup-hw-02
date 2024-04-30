@@ -28,7 +28,7 @@ body{
 .header-li-first:hover{
     color: #404bbf;
 }
-.header-li-first::selection{
+.header-li-first:focus {
     color: #404bbf;
 }
 
@@ -43,7 +43,7 @@ body{
 .header-li-second:hover{
     color: #404bbf;
 }
-.header-li-second::selection {
+.header-li-second:focus {
     color: #404bbf;
 }
 .header-li-third {
@@ -56,7 +56,7 @@ body{
 .header-li-third:hover{
     color: #404bbf;
 }
-.header-li-third::selection {
+.header-li-third:focus{
     color: #404bbf;
 }
 .address{
@@ -71,7 +71,7 @@ body{
 .address-li-first:hover{
     color: #404bbf;
 }
-.address-li-first::selection {
+.address-li-first:focus{
     color: #404bbf;
 }
 .address-li-second{
@@ -82,6 +82,6 @@ body{
 .address-li-second:hover {
     color: #404bbf;
 }
-.address-li-second::selection {
+.address-li-second:focus{
     color: #404bbf;
 }
