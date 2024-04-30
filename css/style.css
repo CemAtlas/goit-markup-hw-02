@@ -75,7 +75,7 @@ h1{
 .main-first-button:focus{
   background-color: #404BBF;
 }
-h2{
+.main-strategy{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
