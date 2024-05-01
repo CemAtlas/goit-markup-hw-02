@@ -88,7 +88,7 @@ h1{
 
 }
 .main-third{
-    background-color: #F4F4FD;
+    background-color: #FFFFFF
 }
 .main-third-h{
     font-size: 36px;
@@ -97,8 +97,9 @@ h1{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    
 }
-.main-hird-li{
+.main-third-li{
     background-color: #FFFFFF;
 
 }
